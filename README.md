@@ -1,4 +1,4 @@
-About Me:
+# 💫 About Me:
 HELLO ALL,<br><br>I'm Neel Kalyani & currently pursuing M.sc Data Science from MIT-WPU, Pune.<br>I've pursued BCA from Christ College, Rajkot.<br><br>Talking about myself:<br>a) Currently learning and upgrading my skills on Web Scraping using Scrapy, Beautiful Soup, Selenium.<br>b) Also worked deeply with CNN model and also familiar with other deep learning models.<br>c) Have knowledge and worked with Machine learning models too.<br>d) created an android application in Kotlin & sqlite.
 
 
@@ -17,5 +17,3 @@ HELLO ALL,<br><br>I'm Neel Kalyani & currently pursuing M.sc Data Science from M
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NEELKALYANI&icon=0&color=0)](https://visitcount.itsvg.in)
-
--->
