@@ -27,8 +27,8 @@ Data Engineer at **Infosys** with a strong interest in building scalable data pl
 ### 🏡 MagicBricks Data Engineering Pipeline
 Production-style Databricks project implementing Medallion Architecture, Auto Loader, Lakeflow Declarative Pipelines, Unity Catalog, Delta Tables, Data Quality, Jobs, Materialized Views, and Dashboards.
 
-### 🛒 E-Commerce Analytics Dashboard
-Built analytics dashboards and reporting workflows to derive business insights from transactional datasets.
+### 🛒 E-Commerce Scraper Tool
+Myntra Shopping Scraper is a Python-based web scraper that automates the extraction of product listings from Myntra’s website using Selenium. It collects category links, navigates through product pages, extracts details such as title, description, price, image, and purchase link, and saves the data into a structured CSV file.
 
 ### 📊 Tableau Analytics Dashboards
 Interactive KPI dashboards with drill-down analysis and business reporting.
