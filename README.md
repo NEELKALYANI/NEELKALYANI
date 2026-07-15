@@ -1,121 +1,58 @@
 # Hi, I'm Neel Kalyani 👋
 
-```{=html}
 <p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=0EA5E9&center=true&vCenter=true&width=800&lines=Data+Engineer;Databricks+Certified+Professional;Building+Production-Ready+Data+Pipelines;Python+%7C+PySpark+%7C+SQL+%7C+Databricks" />`{=html}
-```{=html}
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=0EA5E9&center=true&vCenter=true&width=800&lines=Data+Engineer;Databricks+Certified+Professional;Building+Production-Ready+Data+Pipelines;Python+%7C+PySpark+%7C+SQL+%7C+Databricks" alt="Typing SVG" />
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<a href="https://linkedin.com/in/neelkalyani">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}`</a>`{=html}
-`<a href="https://github.com/NEELKALYANI">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>`{=html}`</a>`{=html}
-`<a href="https://www.upwork.com/freelancers/~01d8169170b97cf108?mp_source=share">`{=html}`<img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>`{=html}`</a>`{=html}
-`<a href="mailto:neelkalyani601@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}`</a>`{=html}
-```{=html}
+  <a href="https://linkedin.com/in/neelkalyani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/NEELKALYANI"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.upwork.com/freelancers/~01d8169170b97cf108?mp_source=share"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+  <a href="mailto:neelkalyani601@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-```
 
-------------------------------------------------------------------------
+## 💡 About Me
 
-## 👨‍💻 About Me
+Data Engineer at **Infosys** with a strong interest in building scalable data platforms using **Databricks, PySpark, SQL, and Python**.
 
-I'm a **Data Engineer** passionate about building scalable,
-production-ready data platforms using modern Lakehouse technologies.
+- 🏆 Databricks Certified **Data Engineer Professional**, **Data Engineer Associate**, and **Data Analyst Associate**
+- 🌐 Former Upwork freelancer delivering web scraping and data automation solutions
+- 🎓 M.Sc. in Data Science & Big Data Analytics (MIT-WPU)
+- 🚀 Currently preparing for additional Databricks, ML, and GenAI certifications
 
--   💼 System Engineer @ Infosys (Data Engineering Track)
--   🎓 M.Sc. Data Science & Big Data Analytics -- MIT-WPU
--   🏆 Databricks Certified Data Engineer **Professional**
--   🏆 Databricks Certified Data Engineer **Associate**
--   🏆 Databricks Certified Data Analyst **Associate**
--   🌐 Former Upwork Freelancer delivering web scraping & data
-    automation solutions
--   🚀 Currently preparing for ML, GenAI and additional Databricks
-    certifications
-
-------------------------------------------------------------------------
+---
 
 ## 🚀 Featured Projects
 
-### ⭐ Chennai Databricks Project
+### 🏡 MagicBricks Data Engineering Pipeline
+Production-style Databricks project implementing Medallion Architecture, Auto Loader, Lakeflow Declarative Pipelines, Unity Catalog, Delta Tables, Data Quality, Jobs, Materialized Views, and Dashboards.
 
-End-to-end Medallion Architecture using Databricks, Auto Loader,
-Lakeflow Declarative Pipelines, Unity Catalog, Delta Tables, Data
-Quality, Materialized Views, Jobs and Dashboards.
+### 🛒 E-Commerce Analytics Dashboard
+Built analytics dashboards and reporting workflows to derive business insights from transactional datasets.
 
-### 📊 Tableau Analytics
+### 📊 Tableau Analytics Dashboards
+Interactive KPI dashboards with drill-down analysis and business reporting.
 
-Interactive dashboards with KPI tracking and business insights.
+### 🤟 American Sign Language Prediction
+Deep learning application for real-time hand gesture recognition and communication.
 
-### 🕸 Web Scraping Automation
+---
 
-Python, Selenium, Scrapy and BeautifulSoup based automation pipelines
-delivered for freelance clients.
+## 🛠️ Tech Stack
 
-### 🤟 American Sign Language Detection
+**Data Engineering:** Databricks • PySpark • Spark SQL • Delta Lake • Lakeflow • Unity Catalog • ETL
 
-Deep learning project enabling communication using hand gesture
-recognition.
+**Programming:** Python • SQL
 
-------------------------------------------------------------------------
+**Visualization:** Tableau • Power BI
 
-## 🛠 Tech Stack
+**Automation:** Selenium • Scrapy • BeautifulSoup
 
-**Data Engineering**
+**Databases:** MySQL • SQLite
 
-`Databricks` `PySpark` `Spark SQL` `Delta Lake` `Lakeflow`
-`Unity Catalog` `ETL`
+**Version Control:** Git • GitHub
 
-**Programming**
-
-`Python` `SQL`
-
-**Visualization**
-
-`Tableau` `Power BI`
-
-**Automation**
-
-`Selenium` `Scrapy` `BeautifulSoup`
-
-**Databases**
-
-`MySQL` `SQLite`
-
-**Version Control**
-
-`Git` `GitHub`
-
-------------------------------------------------------------------------
-
-## 📚 Currently Learning
-
--   Databricks Asset Bundles (DAB)
--   CI/CD for Data Engineering
--   Advanced Spark Optimization
--   Azure Data Engineering
--   Machine Learning Engineering
-
-------------------------------------------------------------------------
-
-## 🏅 Certifications
-
-### Databricks
-
--   ✅ Data Engineer Professional
--   ✅ Data Engineer Associate
--   ✅ Data Analyst Associate
-
-### Preparing For
-
--   🎯 Machine Learning Associate
--   🎯 Generative AI Engineer
--   🎯 Additional Databricks Professional Certifications
--   🎯 PySpark & Python Certifications
-
-------------------------------------------------------------------------
+---
 
 ## 📈 GitHub Stats
 
@@ -125,21 +62,12 @@ recognition.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NEELKALYANI&layout=compact&theme=tokyonight)
 
-------------------------------------------------------------------------
+---
 
-## 🏆 GitHub Trophies
+## 🤝 Connect
 
-![](https://github-profile-trophy.vercel.app/?username=NEELKALYANI&theme=tokyonight&margin-w=8)
-
-------------------------------------------------------------------------
-
-## 🤝 Let's Connect
-
--   LinkedIn: https://linkedin.com/in/neelkalyani
--   Upwork:
-    https://www.upwork.com/freelancers/\~01d8169170b97cf108?mp_source=share
--   Email: neelkalyani601@gmail.com
-
-------------------------------------------------------------------------
+- 💼 LinkedIn: https://linkedin.com/in/neelkalyani
+- 🌐 Upwork: https://www.upwork.com/freelancers/~01d8169170b97cf108?mp_source=share
+- 📧 Email: neelkalyani601@gmail.com
 
 ![](https://visitcount.itsvg.in/api?id=NEELKALYANI&icon=5&color=6)
