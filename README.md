@@ -13,7 +13,7 @@
 
 ## 💡 About Me
 
-Data Engineer at **Infosys** with a strong interest in building scalable data platforms using **Databricks, PySpark, SQL, and Python**.
+Systems Engineer at **Infosys** with a strong interest in building scalable data platforms using **Databricks, PySpark, SQL, and Python**.
 
 - 🏆 Databricks Certified **Data Engineer Professional**, **Data Engineer Associate**, and **Data Analyst Associate**
 - 🌐 Former Upwork freelancer delivering web scraping and data automation solutions
